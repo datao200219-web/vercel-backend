@@ -1,8 +1,7 @@
 {
-  "name": "vercel-backend",
+  "name": "my-project",
   "version": "1.0.0",
-  "type": "module",
   "dependencies": {
-    // 其他依赖项
+    "express": "^4.17.1"
   }
 }
